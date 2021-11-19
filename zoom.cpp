@@ -1,5 +1,6 @@
 #include<SFML/Graphics.hpp>
 #include<iostream>
+#include<complex>
 #include<thread>
 using namespace std;
 

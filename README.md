@@ -10,3 +10,6 @@ Multithreading is used in order to accelerate the process of generating the repr
 
 # Usage
 On starting the application by running the command ("bash run.sh") on Linux, (Use analogous commands for MacOS,Windows), the whole mandelbrot set image can be seen on the screen, for viewing the zooming application just click on the point at which you need to zoom in and the zooming animation begins zooming the image 2X times.
+
+# DEMO video link
+https://drive.google.com/file/d/1Kp_7g1rDfGdNQNJZVCYgcP_eZDgjFtod/view?usp=sharing
